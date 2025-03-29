@@ -20,7 +20,7 @@ function App() {
     <div className={`min-h-screen ${isDark ? 'dark' : ''}`}>
       <header className="fixed top-0 left-0 right-0 p-4 flex justify-between items-center bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm shadow-md z-40">
         <img
-          src="https://8xbet-xo-so-viet-nam-vn.vercel.app/images/8xbet_light_.svg"
+          src="https://8xbet-xo-so-viet-nam-vn.vercel.app/8xbet_light_.svg"
           className="h-10"
           alt="8XBet Logo"
         />
